@@ -2,6 +2,8 @@
 
 This project implements a **Document Summarizer** and **Question-Answering (QA) System** using **Retrieval Augmented Generation (RAG)** principles. It combines document retrieval, summarization, and question-answering capabilities using **FAISS** for efficient vector search and **OpenAI GPT models** for summarization and Q&A tasks.
 
+Watch it summarize the paper "Attention Is All You Need" ⬇️
+
 ![sum-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a730fbd9-dbb7-4c12-bc46-968f5fa86a6e)
 
 

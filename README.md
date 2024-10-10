@@ -43,8 +43,8 @@ This project implements a **Document Summarizer** and **Question-Answering (QA) 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/srimoyee1212/Document-Sumaary-and-QA.git
-    cd Document-Sumaary-and-QA
+    git clone https://github.com/srimoyee1212/Document-Summary-and-QA.git
+    cd Document-Summary-and-QA
     ```
 
 2. Create a virtual environment and activate it:
